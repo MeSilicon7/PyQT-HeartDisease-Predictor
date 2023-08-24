@@ -13,4 +13,6 @@ python script.py
 
 ---
 
+learn more: https://www.kaggle.com/
+
 :)
